@@ -8,7 +8,7 @@ RUN apt-get install -y maven
 
 RUN apt-get install -y git
 
-RUN git clone https://github.com/akshaytiwari29/finalcalci2.git
+RUN git clone https://github.com/DevopsDevOrg/Repo1.git
 
 RUN ls
 
